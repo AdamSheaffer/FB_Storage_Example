@@ -1,24 +1,10 @@
 {
     "profiles": [
         {
-            "username": "Brenda",
-            "about": "Brenda is an Instructor at the Nashville Software School",
-            "id": 1
-        },
-        {
-            "username": "Adam",
-            "about": "Adam is an Instructor at the Nashville Software School",
-            "id": 2
-        },
-        {
-            "username": "Bryan",
-            "about": "Bryan is a Junior Instructor at the Nashville Software School",
-            "id": 3
-        },
-        {
-            "username": "Robbie",
-            "about": "Robbie is a Teaching Assistand at the Nashville Software School",
-            "id": 4
+            "username": "Eliot",
+            "aboutMe": "Eliot is a student at Nashville Software School",
+            "photoUrl": "https://firebasestorage.googleapis.com/v0/b/fecapstone-d2973.appspot.com/o/profiles%2F1559677560598?alt=media&token=b1355799-40f7-49d0-95b3-0c4ca299c055",
+            "id": 5
         }
     ]
 }
